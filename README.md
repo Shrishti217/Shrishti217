@@ -1,5 +1,5 @@
 <!--
-**CharuKes/CharuKes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Shrishti/Shrishti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:   
 
 - 🔭 I’m currently working on ...  
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Charu Kesarwani</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Shrishti Gupta</h1>
 <h3 align="center">git commit -m "Hello, I'm Student and Aspiring Data Scientist and Data Analyst"</h3> 
 
 
